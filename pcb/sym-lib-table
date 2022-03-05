@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name MX1A-C1NW)(type Legacy)(uri "${KIPRJMOD}/kicad parts/MX1A-C1NW.lib")(options "")(descr ""))
+  (lib (name SJ-43514-SMT)(type Legacy)(uri "${KIPRJMOD}/kicad parts/SJ-43514-SMT.lib")(options "")(descr ""))
+  (lib (name UJ2-MBH-2-SMT)(type Legacy)(uri "${KIPRJMOD}/kicad parts/UJ2-MBH-2-SMT.lib")(options "")(descr ""))
+  (lib (name KMR621NGLFS)(type Legacy)(uri "${KIPRJMOD}/kicad parts/KMR621NGLFS.lib")(options "")(descr ""))
+)
